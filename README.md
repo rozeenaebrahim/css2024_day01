@@ -3,3 +3,6 @@
 welcome to the coding summer school
 
 this is day 1 file and folders
+
+update after cloning
+
